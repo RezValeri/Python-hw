@@ -1,2 +1,2 @@
 # Python-hw
-Hw tasks from Mingaleev Azat and Rezapova Valeriia
+Hw tasks from Rezapova Valeriia
