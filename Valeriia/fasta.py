@@ -92,7 +92,7 @@ def parse(file):
     d={}
     cur_scaf=''
     cur_seq=[]
-    for line in open(fil):
+    for line in open(file):
         if line.startswith(">") and cur_scaf=='':
             cur_scaf=line.split(' ')[0]
         elif line.startswith(">") and cur_scaf!='':
